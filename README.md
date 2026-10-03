@@ -2,7 +2,7 @@
 An item builder and tracker for the game Deadlock. Create builds, see their soul costs, and
 track rates for characters and items.
 
-**[Live Demo]()
+**[Live Demo](https://roughhouserandy.github.io/deadlock_builder/)
 
 ## planned features
 [] Select characters and items to create builds 
